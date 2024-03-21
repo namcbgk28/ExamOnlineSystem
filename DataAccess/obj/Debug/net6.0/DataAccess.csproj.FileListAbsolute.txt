@@ -1,0 +1,15 @@
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

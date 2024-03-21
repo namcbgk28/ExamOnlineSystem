@@ -1,0 +1,14 @@
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\Chaunam270203\Desktop\FPT\Ky5_SP2024\PRN211\Hihi\PE\drive-download-20240315T170458Z-001\PRN211ProjectSolution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
